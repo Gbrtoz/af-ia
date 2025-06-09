@@ -1,12 +1,12 @@
 # Análise Comparativa: Geração de Código Frontend com ChatGPT vs. Copilot
 
-[cite_start]Este repositório armazena os códigos-fonte gerados como parte do trabalho de avaliação da disciplina de Inteligência Artificial da Facens. [cite_start]O projeto consiste em uma análise comparativa da eficiência e qualidade do código frontend gerado por duas ferramentas de IA: **ChatGPT (OpenAI)** e **Microsoft Copilot**.
+Este repositório armazena os códigos-fonte gerados como parte do trabalho de avaliação da disciplina de Inteligência Artificial da Facens. [cite_start]O projeto consiste em uma análise comparativa da eficiência e qualidade do código frontend gerado por duas ferramentas de IA: **ChatGPT (OpenAI)** e **Microsoft Copilot**.
 
-> [cite_start]O objetivo geral do estudo é "Analisar a eficácia de ferramentas de IA (ChatGPT e Copilot) na geração automática de código frontend em contextos reais de desenvolvimento".
+O objetivo geral do estudo é "Analisar a eficácia de ferramentas de IA (ChatGPT e Copilot) na geração automática de código frontend em contextos reais de desenvolvimento".
 
 ## Tecnologias Utilizadas
 
-[cite_start]Todos os experimentos foram realizados utilizando tecnologias web fundamentais, sem o auxílio de frameworks ou bibliotecas externas.
+Todos os experimentos foram realizados utilizando tecnologias web fundamentais, sem o auxílio de frameworks ou bibliotecas externas.
 
 * **HTML:** Para a estruturação do conteúdo.
 * **CSS:** Para a estilização e criação de layouts.
